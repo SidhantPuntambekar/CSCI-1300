@@ -1,0 +1,11 @@
+——Student Profile——
+
+Name: Sidhant Puntambekar
+
+Major/minor: Computer Science, Biology
+
+Programming experience: Taken AP Comp Sci A. Coding in Java, Python, Matlab and now C++
+
+What do you expect to learn in this course?
+I expect to learn how to think computationally while establishing a bedrock in C++ in order to understand the fundamentals of computer programming.
+
