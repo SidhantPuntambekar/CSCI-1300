@@ -1,0 +1,2 @@
+Trainer,Won/Lost,Points,Badges
+fart, 0, 0, 0
