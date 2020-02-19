@@ -147,19 +147,3 @@ vector<Pokemon> Trainer::returnParty() //Return party
 {
     return party;
 }
-
-
-
-// bool Trainer::foundWildPokemon(Trainer trainerToCheckPokemon)
-// {
-//     int X = object.getX();
-//     int Y = object.getY();
-    
-//     for (int i = X-3; i < X-4; i++)
-//     {
-//         for (int j = Y-3; j < Y-4; i++)
-//         {
-            
-//         }
-//     }
-// }
