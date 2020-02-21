@@ -72,7 +72,7 @@ void findMatchedGenome(string genome1, string genome2, string genome3, string se
         }
         else if (similarityScoreGenome2 == similarityScoreGenome3 && similarityScoreGenome2 != similarityScoreGenome1) //If two of the genomes have equal scores, print out the two genomes are the best match
         {
-            cout << "Genome 2 is the best match." << endl;
+            cout << "Genome 1 is the best match." << endl;
             cout << "Genome 3 is the best match." << endl;
         }
         else if (similarityScoreGenome3 == similarityScoreGenome1 && similarityScoreGenome3 != similarityScoreGenome2) //If two of the genomes have equal scores, print out the two genomes are the best match
